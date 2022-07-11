@@ -1,5 +1,5 @@
 # defining string
-name = "My name is Anurag";
+name = "My name is Something";
 #defining length of string
 length = len(name);
 #string properties

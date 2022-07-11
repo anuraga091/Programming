@@ -1,8 +1,8 @@
 #defining list
-name= ['anurag', 1, 'charan', 2, 'janhwee', 3]
+name= ['guava', 1, 'banana', 2, 'apple', 3]
 
 #appending list
-name.append("alpana")
+name.append("papaya")
 print(name)
 
 #reversing list
